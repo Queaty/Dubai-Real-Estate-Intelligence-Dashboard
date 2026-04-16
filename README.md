@@ -12,8 +12,6 @@ This project is an interactive **Power BI Dashboard** designed to analyze and vi
 ## 📈 Dashboard Preview
 Below is a snapshot of the Dubai Real Estate Intelligence Dashboard:
 
-**Dashboard Preview**
-
 ![Dashboard Preview](Dashboard.jpeg)
 
 ## 📊 Key Insights
