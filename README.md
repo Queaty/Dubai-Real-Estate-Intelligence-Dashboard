@@ -15,12 +15,13 @@ Below is a snapshot of the Dubai Real Estate Intelligence Dashboard:
 ![Dashboard Preview](Dashboard.jpeg)
 
 ## 📊 Key Insights
-📌 **Prime locations** like Downtown Dubai and Dubai Marina show higher property prices and strong demand.
-📌 **Apartments contribute the highest number of transactions**, indicating strong urban demand.
-📌 **Property prices show an upward trend**, especially in premium segments.
-📌 **Sales activity peaks during certain months**, indicating seasonal buying behavior.
-📌 **Luxury properties contribute significantly to overall revenue**, despite lower transaction counts.
-📌 **Emerging areas show growth potential**, making them attractive for future investments.
+
+* 📌 **Prime locations** like Downtown Dubai and Dubai Marina show higher property prices and strong demand.
+* 📌 **Apartments contribute the highest number of transactions**, indicating strong urban demand.
+* 📌 **Property prices show an upward trend**, especially in premium segments.
+* 📌 **Sales activity peaks during certain months**, indicating seasonal buying behavior.
+* 📌 **Luxury properties contribute significantly to overall revenue**, despite lower transaction counts.
+* 📌 **Emerging areas show growth potential**, making them attractive for future investments.
 
 
 ## 📁 Files in this Repository
