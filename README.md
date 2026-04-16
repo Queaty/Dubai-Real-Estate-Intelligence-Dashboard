@@ -14,7 +14,7 @@ Below is a snapshot of the Dubai Real Estate Intelligence Dashboard:
 
 **Dashboard Preview**
 
-Dashboard.jpeg
+![Dashboard Preview](Dashboard.jpeg)
 
 ## 📊 Key Insights
 📌 **Prime locations** like Downtown Dubai and Dubai Marina show higher property prices and strong demand.
