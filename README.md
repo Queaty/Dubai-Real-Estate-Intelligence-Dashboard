@@ -29,4 +29,3 @@ Housing_Price_Dashboard.pbix       -> Power BI Dashboard file
 Dashboard.png                      -> Dashboard Screenshot  
 README.md                          -> Project Preview  
 INSIGHTS.pdf                       -> Insights
-housing_price_dataset.csv          -> Dataset
